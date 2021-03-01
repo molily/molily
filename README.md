@@ -4,7 +4,6 @@ Software developer with a focus on front-end web development and JavaScript web 
 
 * Working at [9elements](https://9elements.com/), a design and software agency.
 * E-Mail: [molily@mailbox.org](molily@mailbox.org)
-* [Xing profile](https://www.xing.com/profile/Mathias_Schaefer5)
 
 ## Writings
 
