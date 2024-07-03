@@ -5,7 +5,6 @@ Software developer with a focus on front-end web development and JavaScript web 
 * Working at [9elements](https://9elements.com/), a design and software agency.
 * E-Mail: molily@mailbox.org
 * Mastodon: [@molily@mastodon.social](https://mastodon.social/@molily)
-* Twitter: [@molily](https://twitter.com/molily)
 
 ## Writings
 
