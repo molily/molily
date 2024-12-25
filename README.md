@@ -1,10 +1,11 @@
 # molily
 
-Software developer with a focus on front-end web development and JavaScript web applications.
+Software developer with a focus on front-end web development.
 
-* Working at [9elements](https://9elements.com/), a design and software agency.
+* Working for [9elements, an agency for design, software, firmware and security](https://9elements.com/).
 * E-Mail: molily@mailbox.org
 * Mastodon: [@molily@mastodon.social](https://mastodon.social/@molily)
+* Bluesky: [@molily.de](https://bsky.app/profile/molily.de)
 
 ## Writings
 
